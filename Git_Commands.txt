@@ -22,10 +22,11 @@ Create snapshot in local (Still not commited on github)
 5) git remote add origin https://github.com/mekaushalpatel/LearnGithub.git
 Made the link bitween snapshot and github
 
+6) git push origin master
+When upload changes(update) in git repo
 
+7) git clone https://github.com/mekaushalpatel/LearnGithub.git
+For clone || Download files in local
 
-
-For clone 
-
-6) git clone https://github.com/mekaushalpatel/LearnGithub.git
-
+8) 6) git pull origin master
+get new data (updated) from git
