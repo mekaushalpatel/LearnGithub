@@ -1,0 +1,7 @@
+git config --global user.email "mekaushalpatel@gmail.com"
+git config --global user.name "mekaushalpatel"
+
+Git Command
+
+1) git init
+Git start watching in folder
