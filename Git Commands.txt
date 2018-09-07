@@ -1,3 +1,7 @@
+Go t directory path first
+cd [Folder name]
+....
+
 git config --global user.email "mekaushalpatel@gmail.com"
 git config --global user.name "mekaushalpatel"
 
@@ -5,3 +9,23 @@ Git Command
 
 1) git init
 Git start watching in folder
+
+2) git status
+Verify that how much file about git know
+
+3) git add [File name] || -A
+Now git know about the files
+
+4) git commit -m "First Commit"
+Create snapshot in local (Still not commited on github)
+
+5) git remote add origin https://github.com/mekaushalpatel/LearnGithub.git
+Made the link bitween snapshot and github
+
+
+
+
+For clone 
+
+6) git clone https://github.com/mekaushalpatel/LearnGithub.git
+
